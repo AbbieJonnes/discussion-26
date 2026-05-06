@@ -33,5 +33,21 @@ Python
 ```
 **Bash**
 ## clone repository
+git clone
+https://github.com/AbbieJonnes/discussion-26
 
+License
+
+This project is licensed under the MIT License.
+
+Author
+
+**Abigael Mwangi**
+
+* GitHub: https://abbiejonnes.com
+* Email: abigaelmwangi534@gmail.com
+
+## Vision
+
+To digitize and empower the Music sector sector by providing accessible, scalable, and efficient software solutions that enhance productivity and market reach
 
